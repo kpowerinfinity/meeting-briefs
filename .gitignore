@@ -2,6 +2,9 @@
 
 # Environment variables
 .env
+node_modules
+bin
+
 
 # Google OAuth credentials
 client_secret.json
