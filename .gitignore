@@ -2,8 +2,11 @@
 
 # Environment variables
 .env
-node_modules
-bin
+
+# Directories
+node_modules/
+bin/
+include/
 
 
 # Google OAuth credentials
